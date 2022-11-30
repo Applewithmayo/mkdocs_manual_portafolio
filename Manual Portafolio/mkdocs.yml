@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: Dimacast
+
+nav:
+  - Inicio: index.md
+  - Permisos: permisos.md
+  - Dashboard: dashboard.md
+  - Empleados: empleados.md
+  - Departamentos: departamentos.md
+  - Flujos: flujos.md
+  - Tareas y Subtareas: tareas.md
+  - Notificaciones: notificaciones.md
+theme:
+
+  features:
+    - content.code.annotate
+    - header.autohide
+    - navigation.tracking
+    - navigation.instant
+
+  logo: images/favicon-32x32.png
+  favicon: images/favicon-32x32.png
+  language: en
+  name: material
+  palette:
+      scheme: default 
+  font:
+    text: Sora
+    code: Exo
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - search:
+      lang: es
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: "100%"
+      height: auto
+      zoomable: true
+      draggable: true
+      auto_caption: false
+      caption_position: bottom
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://twitter.com/squidfunk
+      name: Dimacast
+
+    - icon: fontawesome/brands/linkedin
+      link: https://twitter.com/squidfunk
+      name: Dimacast
+
+    - icon: fontawesome/brands/linkedin
+      link: https://twitter.com/squidfunk
+      name: Dimacast
+
+    - icon: fontawesome/brands/linkedin
+      link: https://twitter.com/squidfunk
+      name: Dimacast
+copyright: Copyright &copy; 2018 - 2022 Dimacast
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - attr_list
+  - md_in_html
+  - tables
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
