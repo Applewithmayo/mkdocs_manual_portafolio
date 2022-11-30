@@ -31,7 +31,7 @@ Al darle clic al botón detalle de un empleado, este proporcionara una vista con
 
 <figure markdown>
   ![Vista Empleados](https://i.postimg.cc/CLrg3pYT/Screenshot-18.png){ width="600" }
-  <figcaption>Lista de empleados</figcaption>
+  <figcaption>Detalle de Departamento</figcaption>
 </figure>
 
 !!! note
@@ -44,7 +44,7 @@ Al darle clic al botón editar de un departamento, este proporcionara una vista 
 
 <figure markdown>
   ![Vista departamento](https://i.postimg.cc/WpK8C5KY/Screenshot-19.png){ width="600" }
-  <figcaption>Lista de departamento</figcaption>
+  <figcaption>Editar Departamento</figcaption>
 </figure>
 
 Finaliza la actualización al darle clic al botón "Guardar"

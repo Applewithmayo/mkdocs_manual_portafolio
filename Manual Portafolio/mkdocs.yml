@@ -5,7 +5,7 @@ site_name: Dimacast
 nav:
   - Inicio: index.md
   - Permisos: permisos.md
-  - Dashboard: dashboard.md
+  - Dashboard y Resumen: dashboard.md
   - Empleados: empleados.md
   - Departamentos: departamentos.md
   - Flujos: flujos.md
@@ -47,20 +47,20 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      link: https://twitter.com/squidfunk
-      name: Dimacast
+      link: https://www.linkedin.com/in/ignacio-astete/
+      name: Ignacio Astete
 
     - icon: fontawesome/brands/linkedin
-      link: https://twitter.com/squidfunk
-      name: Dimacast
+      link: https://www.linkedin.com/in/alexander-cautivo/
+      name: Alexander Cautivo
 
     - icon: fontawesome/brands/linkedin
-      link: https://twitter.com/squidfunk
-      name: Dimacast
+      link: https://www.linkedin.com/in/oscar-diaz-sep%C3%BAlveda-79b6b0244/
+      name: Oscar Diaz
 
     - icon: fontawesome/brands/linkedin
-      link: https://twitter.com/squidfunk
-      name: Dimacast
+      link: https://www.linkedin.com/in/eduardo-maldonado-elizondo-031213205/
+      name: Eduardo Maldonado
 copyright: Copyright &copy; 2018 - 2022 Dimacast
 
 markdown_extensions:

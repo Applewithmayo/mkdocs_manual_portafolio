@@ -82,3 +82,37 @@ Ademas proporciona información adicional de la tarea.
   ![Vista Dashboard](https://i.postimg.cc/tJQC6t1R/Screenshot-8.png){ width="600" }
   <figcaption>Detalle tarea</figcaption>
 </figure>
+
+## Resumen: La vista ágil
+
+A diferencia del Dashboard, esta vista esta disponible y orientada para el empleado. En el podrá encontrar:
+
+### Tarjeta de tareas generales
+
+Muestra el total de tareas generales, sin clasificación de flujos. Una vista rápida del estado de sus tareas para que haga revisión de estas.
+
+<figure markdown>
+  ![Vista Dashboard](https://i.postimg.cc/zXBRdL0V/Screenshot-52.png){ width="600" }
+  <figcaption>Tarjetas de tareas generales</figcaption>
+</figure>
+
+
+
+### Lista de tareas por Aceptar
+
+Esta tabla presenta todas las tareas que estén asignadas al empleado y este podrá aceptar o rechazar estas tareas al acceder al detalle de estas
+
+<figure markdown>
+  ![Vista Empleados](https://i.postimg.cc/wjgdkJ6m/Screenshot-50.png){ width="600" }
+  <figcaption>Tareas Por Aceptar</figcaption>
+</figure>
+
+### Lista de tareas devueltas
+
+Esta tabla presenta todas las tareas que estén asignadas a otro empleado o este usuario y fue rechazada, tienen la opción de ser modificada y/o reasignada a otro empleado.
+
+<figure markdown>
+  ![Vista Empleados](https://i.postimg.cc/D00RNdSC/Screenshot-51.png){ width="600" }
+  <figcaption>Tareas Devueltas</figcaption>
+</figure>
+

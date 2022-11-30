@@ -30,7 +30,7 @@ Al darle clic al botón detalle de un empleado, este proporcionara una vista con
 
 <figure markdown>
   ![Vista Empleados](https://i.postimg.cc/mgjfRx7y/Screenshot-11.png){ width="600" }
-  <figcaption>Lista de empleados</figcaption>
+  <figcaption>Detalle de empleados</figcaption>
 </figure>
 
 !!! note
@@ -44,19 +44,11 @@ Al darle clic al botón editar de un empleado, este proporcionara una vista con 
 
 <figure markdown>
   ![Vista Empleados](https://i.postimg.cc/2S7bD5H9/Screenshot-12.png){ width="600" }
-  <figcaption>Lista de empleados</figcaption>
+  <figcaption>Editar empleados</figcaption>
 </figure>
 
 Finaliza la actualización al darle clic al botón "Guardar"
 
-### Inactividad
-
-Esta wea no se si la vamos a poner
-
-<figure markdown>
-  ![Vista Empleados](https://i.postimg.cc/N0x1pDqM/Screenshot-3.png){ width="600" }
-  <figcaption>Revisar</figcaption>
-</figure>
 
 ## Crear Empleados
 
@@ -71,12 +63,12 @@ Una vez seleccionado, se presentara un formulario de campos obligatorio para el 
 
 <figure markdown>
   ![Vista Empleados](https://i.postimg.cc/CKdcB9f0/Screenshot-14.png){ width="600" }
-  <figcaption>Lista de empleados</figcaption>
+  <figcaption>Formulario de empleados</figcaption>
 </figure>
 
 El registro se concreta una vez presionado el botón "Guardar"
 
 <figure markdown>
   ![Vista Empleados](https://i.postimg.cc/tgHgYGcZ/Screenshot-15.png){ width="600" }
-  <figcaption>Lista de empleados</figcaption>
+  <figcaption>Confirmación de creación de empleado</figcaption>
 </figure>

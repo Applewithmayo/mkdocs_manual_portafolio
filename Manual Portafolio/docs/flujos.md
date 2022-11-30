@@ -85,14 +85,14 @@ Al momento de crear el Flujo Normal, lo redirigirá a la vista de de sus tareas 
 
 <figure markdown>
   ![Vista Empleados](https://i.postimg.cc/zXdBnZ3Y/Screenshot-30.png){ width="600" }
-  <figcaption>Registrar Flujo</figcaption>
+  <figcaption>Confirmación de creación de flujo</figcaption>
 </figure>
 
 Una vez creada, podrá verla enlistada en la tabla de tareas del flujo normales.
 
 <figure markdown>
   ![Vista Empleados](https://i.postimg.cc/ZRccHK1L/Screenshot-31.png){ width="600" }
-  <figcaption>Registrar Flujo</figcaption>
+  <figcaption>Lista de Flujos</figcaption>
 </figure>
 
 ### Tareas Normales
@@ -103,7 +103,7 @@ En este flujo usted debe registrar de manera obligatoria los campos: Nombre tare
 
 <figure markdown>
   ![Vista Empleados](https://i.postimg.cc/gJVZqS6F/Screenshot-32.png){ width="600" }
-  <figcaption>Lista de Flujo</figcaption>
+  <figcaption>Formulario asignación de tarea</figcaption>
 </figure>
 
 
@@ -111,6 +111,6 @@ Una vez creada, podrá verla enlistada en la tabla de tareas del flujo normal.
 
 <figure markdown>
   ![Vista Empleados](https://i.postimg.cc/XvHjMwSG/Screenshot-33.png){ width="600" }
-  <figcaption>Lista de Flujo</figcaption>
+  <figcaption>Confirmación de asignación</figcaption>
 </figure>
 
