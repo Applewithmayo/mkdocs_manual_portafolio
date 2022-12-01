@@ -74,3 +74,5 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  
+dev_addr: '0.0.0.0:8080'
