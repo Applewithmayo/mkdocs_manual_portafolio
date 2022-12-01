@@ -1,6 +1,6 @@
 # Bienvenidos al manual de usuario de FlowController
 
-Este programa proporciona proporciona a nuestros clientes un total control de sus flujos.  
+Este programa proporciona a nuestros clientes un total control de sus flujos.  
 Cada flujos se compone de
 tareas que deben tener información visibles, desde sus responsables, sus tiempos de ejecución, entre otras variables que dificulten los
 buenos procedimientos de su empresa.  

@@ -79,7 +79,7 @@ Las ventajas de esta vista son fundamentales para el buen control de los flujos 
 Ademas proporciona información adicional de la tarea.  
 
 <figure markdown>
-  ![Vista Dashboard](https://i.postimg.cc/tJQC6t1R/Screenshot-8.png){ width="600" }
+  ![Vista Dashboard](https://i.postimg.cc/5ttwC2HW/Screenshot-8.png){ width="600" }
   <figcaption>Detalle tarea</figcaption>
 </figure>
 
